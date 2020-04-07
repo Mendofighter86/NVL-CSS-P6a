@@ -1,0 +1,12 @@
+th{
+    background-color: #eaecf0;
+    text-align: center;
+    border: 1px solid black;
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+}
+body{
+    font: normal small-caps normal 16px/1.4 Georgia;
+}
